@@ -23,13 +23,12 @@ Those informations are important to solve the Q-Learn equation:
 
 ![q-learning equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/678cb558a9d59c33ef4810c9618baf34a9577686)
 
-**_More explanations_** about the equation variables and about the Q-learn algorithm may be found at: [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
-
-Nonetheless, the Q-Learning algorithm is a technique wich creates a table (Q-Table) with all the results of a [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process).
+### **_More explanations_** about the equation variables and about the Q-learn algorithm may be found at: [Q-Learning](https://en.wikipedia.org/wiki/Q-learning)
+### Nonetheless, the Q-Learning algorithm is a technique wich creates a table (Q-Table) with all the results of a [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_decision_process).
 
 ![Markov's Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/63b502aafbe6ea1585231222ea3783f40f0808a9)
 
-The key of Reinforcement Learning is to solve a Markov Decision Process without the specification of the transition probabilities.
+### The key of Reinforcement Learning is to solve a Markov Decision Process without the specification of the transition probabilities.
 
 ## How does it work?
 
