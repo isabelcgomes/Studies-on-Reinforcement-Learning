@@ -13,7 +13,7 @@ An area of Machine Learning concerned with how intelligent agents ougth to take 
     - the set of actions will be taken more than once
     - the agent learned trough reinforce
 
-![schema](esquema.png)
+![schema](images\esquema.png)
 
 Note that the agent recieve two inputs per action:
 - The reward
