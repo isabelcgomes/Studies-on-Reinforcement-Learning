@@ -51,10 +51,3 @@ Bibliografia em português
 [Deep Q-learning medium](https://medium.com/ai%C2%B3-theory-practice-business/reinforcement-learning-part-7-a-brief-introduction-to-deep-q-networks-aa45314a2ae)
 
 [Deep Q-Learning Wikipedia](https://en.wikipedia.org/wiki/Deep_reinforcement_learning)
-
-
-
-
-
-
-[How to write markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
