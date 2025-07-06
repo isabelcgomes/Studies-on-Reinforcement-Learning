@@ -17,7 +17,7 @@ A pole is attached by an un-actuated joint to a cart, which moves along a fricti
 
 [Post no medium](https://medium.com/ranbookm/aprendizado-por-refor%C3%A7o-40d8800bd507)
 
-![esquema](esquema.png)
+![esquema](images/esquema.png)
 
 O agente faz uma ação no ambiente
 
@@ -30,7 +30,7 @@ O objetivo no final é sempre maximizar a recompensa.
 Observe pelo gráfico abaixo, no qual o eixo y indica as recompensas e o eixo x representa os steps, que as recompensas são maximizadas com o decorrer dos steps.
 
 
-![gráfico](gf1.png)
+![gráfico](images/gf1.png)
 
 O grande lance do aprendizado por reforço é, por meio da Q-table, as recompensas são atualizadas recursivamente e, com isso, a recompensa total do ambiente aumente mais e mais a cada época.
 
